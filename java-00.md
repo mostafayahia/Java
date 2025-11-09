@@ -14,7 +14,7 @@
 - JavaScript
 
 ## Download Video Link
-- <insert your video link here>
+- https://www.mediafire.com/file/npzmezp32yowhq8/Screen_Recording_2025-11-09_at_19.43.34.mov/file
 
 ## Youtube Video Link
 - https://www.youtube.com/watch?v=jnbaam67bdY&list=PLcn4VUbWre3WRIB3I1ZnxqIpmLNfmHHDr&index=1
