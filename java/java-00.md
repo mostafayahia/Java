@@ -17,7 +17,7 @@
 - <insert your video link here>
 
 ## Youtube Video Link
-- https://youtu.be/jnbaam67bdY
+- https://www.youtube.com/watch?v=jnbaam67bdY&list=PLcn4VUbWre3WRIB3I1ZnxqIpmLNfmHHDr&index=1
 
 ## Video Description
 - Excel: https://docs.google.com/spreadsheets/d/1MGmRevwE_4INNs3J2QYUJf5SvrIogl-y4FHBJ1DL4fw
