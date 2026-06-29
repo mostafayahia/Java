@@ -6,11 +6,6 @@
 - static and not static
 - primitive type & reference type
 - Garbage Collector
-- Byte Overflow
-- Encapsulation (public, default, protected) & packaging
-- Utility Class & Spring StringUtils class
-- Recommended Courses
-- Recommended playlist
 
 ## Download Video Link
 - 
