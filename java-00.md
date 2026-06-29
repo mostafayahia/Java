@@ -20,6 +20,7 @@
 - https://www.youtube.com/watch?v=jnbaam67bdY&list=PLcn4VUbWre3WRIB3I1ZnxqIpmLNfmHHDr&index=1
 
 ## Video Description
+- Git Repo: https://github.com/mostafayahia/Java/tree/Java-00
 - Excel: https://docs.google.com/spreadsheets/d/1MGmRevwE_4INNs3J2QYUJf5SvrIogl-y4FHBJ1DL4fw
 - Excalidraw: https://excalidraw.com/#json=oFeJeLao2YPc8dbLEnIEL,Pin7wV9F0yW6LyszkO7xlQ
 - Amazon OpenJDK 11: https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html
