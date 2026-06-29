@@ -7,7 +7,7 @@
 - Recommended playlist
 
 ## Download Video Link
-- 
+- https://www.mediafire.com/file/t8tkc1whjapuc6y/Screen+Recording+2026-06-28+at+15.28.58.mov/file
 
 ## Youtube Video Link
 - https://www.youtube.com/watch?v=LT6Xr_rtSMs&list=PLcn4VUbWre3WRIB3I1ZnxqIpmLNfmHHDr
