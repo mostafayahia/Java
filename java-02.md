@@ -10,7 +10,7 @@
 - 
 
 ## Youtube Video Link
-- 
+- https://www.youtube.com/watch?v=LT6Xr_rtSMs&list=PLcn4VUbWre3WRIB3I1ZnxqIpmLNfmHHDr
 
 ## Video Description
 - Git Repo: https://github.com/mostafayahia/Java/tree/Java-02
