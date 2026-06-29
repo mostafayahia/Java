@@ -8,10 +8,10 @@
 - Garbage Collector
 
 ## Download Video Link
-- 
+- https://www.mediafire.com/file/ma3pttfhoxd1dku/Screen+Recording+2026-06-25+at+15.44.35.mov/file
 
 ## Youtube Video Link
-- 
+- https://www.youtube.com/watch?v=yKfjZsf8Jvc&list=PLcn4VUbWre3WRIB3I1ZnxqIpmLNfmHHDr&index=1
 
 ## Video Description
 - Git Repo: https://github.com/mostafayahia/Java/tree/Java-01
