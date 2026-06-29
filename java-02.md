@@ -1,11 +1,5 @@
-# == Java-01 ==
+# == Java-02 ==
 ## Outlines
-- Flashback (../../, FileReaderTest, env variable for java, jdk,jvm nested, precompiled, machinecode 01110)
-- Introduction (byte overflow & production issue)
-- Memory (Stack, Heap)
-- static and not static
-- primitive type & reference type
-- Garbage Collector
 - Byte Overflow
 - Encapsulation (public, default, protected) & packaging
 - Utility Class & Spring StringUtils class
@@ -19,7 +13,7 @@
 - 
 
 ## Video Description
-- Git Repo: https://github.com/mostafayahia/Java/tree/Java-01
+- Git Repo: https://github.com/mostafayahia/Java/tree/Java-02
 - Berkley Data Structure: https://m.youtube.com/playlist?list=PLu0nzW8Es1x3TmpwQRLMQwCtulEd43ZY8
 - Java 8 Course: https://www.udemy.com/course/java-7-8-new-featuresenhancements-zero-to-master
 - Memory: https://excalidraw.com/#json=0AMPomJkfe3ifzEORudr-,G6rT9LFN1jjRlbgFg6RC6Q
